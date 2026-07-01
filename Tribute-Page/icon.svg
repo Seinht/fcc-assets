@@ -1,0 +1,14 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" width="800" height="800">
+	<defs>
+		<image  width="800" height="800" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAyAAAAMgAQMAAADhvpQrAAAAAXNSR0IB2cksfwAAAANQTFRFIh0jwbiyOgAAAS1JREFUeJztzUERAAAMAqDZv/Ra+PCgALmCSCQSiUQikUgkEolEIpFIJBKJRCKRSCQSiUQikUgkEolEIpFIJBKJRCKRSCQSiUQikUgkEolEIpFIJBKJRCKRSCQSiUQikUgkEolEIpFIJBKJRCKRSCQSiUQikUgkEolEIpFIJBKJRCKRSCQSiUQikUgkEolEIpFIJBKJRCKRSCQSiUQikUgkEolEIpFIJBKJRCKRSCQSiUQikUgkEolEIpFIJBKJRCKRSCQSiUQikUgkEolEIpFIJBKJRCKRSCQSiUQikUgkEolEIpFIJBKJRCKRSCQSiUQikUgkEolEIpFIJBKJRCKRSCQSiUQikUgkEolEIpFIJBKJRCKRSCQSiUQikUgkEolEIpFIJBKJRCKR7CQPIHEDIbMPz1oAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+		tspan { white-space:pre } 
+		.t0 { font-size: 24px;fill: #ffffff;font-weight: 400;font-family: "TextMeOne-Regular", "Text Me One" } 
+	</style>
+	<use id="Background" href="#img1" x="0" y="0"/>
+	<text id="mnri" style="transform: matrix(14.743,0,0,14.743,86.475,529.784)">
+		<tspan x="0" y="0" class="t0">m</tspan><tspan  y="0" class="t0">n</tspan><tspan  y="0" class="t0">r</tspan><tspan  y="0" class="t0">i
+</tspan>
+	</text>
+</svg>
